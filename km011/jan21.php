@@ -116,6 +116,7 @@ switch($num){
         break;
     default:
         echo "something else";
+        
 }
 
 ?>
