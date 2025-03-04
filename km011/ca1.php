@@ -98,7 +98,7 @@ function test_input($input){
 
     <?php
         if($_SERVER["REQUEST_METHOD"] == "POST"){
-            if($count == 4-){
+            if($count == 4){
                 echo "<br><h3>Feedback submitted successfully!</h3>";    
             }
         }
